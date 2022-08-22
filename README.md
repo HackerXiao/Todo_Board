@@ -1,4 +1,4 @@
-# Todo_Board
+# Traveler_Board
 A board manage multiple todo_lists and iterms.
 In phase_1, I created the TodoBoard only manage a single List which contains many Items.
 In phase_2, I refactored the code to support the following features:
